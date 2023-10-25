@@ -14,7 +14,7 @@
     }
 
     $jawabaninsset = "insset adalah = memeriksa apakah suatu variabel sudah diatur atau belum.";   
-    $jawabanempty = "Empty adalah = memeriksa apakah suatu variabel sudah diatur atau belum.";
+    $jawabanempty = "Empty adalah =  berfungsi sebagai penanda suatu kondisi.";
 
     echo stylee($jawabaninsset, $jawabanempty);
 
